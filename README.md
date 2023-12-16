@@ -94,7 +94,7 @@
    ```
 3. Run the project
    ```sh
-   streamlit run home.py
+   streamlit run user_interface/home.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
