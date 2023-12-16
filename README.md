@@ -22,22 +22,16 @@
 <br />
 <div align="center">
   <a href="https://github.com/cprite/dynamic-players-insights">
-    <img src="user_interface/logo.png" alt="Logo" width="80" height="80">
+    <img src="user_interface/logo.png" alt="Logo" width="420" height="400">
   </a>
 
-<h3 align="center">project_title</h3>
-
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/cprite/dynamic-players-insights"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cprite/dynamic-players-insights">View Demo</a>
+    <br />
+    <a href="https://kickvision.streamlit.app/">View Demo</a>
     ·
     <a href="https://github.com/cprite/dynamic-players-insights/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/cprite/dynamic-players-insights/issues">Request Feature</a>
   </p>
 </div>
 
