@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cprite/dynamic-players-insights">
-    <img src="user_interface/logo.png" alt="Logo" width="420" height="400">
+    <img src="user_interface/logo.png" alt="Logo" width="280" height="240">
   </a>
 
   <p align="center">
