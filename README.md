@@ -61,7 +61,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](kickvision.streamlit.app)
 
-"KickVision" is a software project idea that transforms the way football enthusiasts interact with match replays. Users upload a video from the UEFA Champions League 2021/2022 season, and the system employs advanced recognition technology to identify each player on the field. Once a player is recognized, the software instantly retrieves and displays comprehensive statistics specific to that player for the entire tournament. These stats include goals scored, assists, passes and more offering fans a deeper insight into each player's performance throughout the Champions League season. This innovative tool not only enhances the viewing experience but also serves as a valuable resource for analysts and fans who seek a detailed understanding of player performances.
+"KickVision" is a software project idea created as part of the final project work of the 9 week Data Science & AI bootcamp. The idea is to transform the way football enthusiasts interact with match replays. Users upload a video from the UEFA Champions League 2021/2022 season, and the system employs advanced recognition technology to identify each player on the field. Once a player is recognized, the software instantly retrieves and displays comprehensive statistics specific to that player for the entire tournament. These stats include goals scored, assists, passes and more offering fans a deeper insight into each player's performance throughout the Champions League season. This innovative tool not only enhances the viewing experience but also serves as a valuable resource for analysts and fans who seek a detailed understanding of player performances.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
